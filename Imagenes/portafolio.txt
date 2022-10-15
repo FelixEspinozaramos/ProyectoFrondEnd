@@ -1,0 +1,42 @@
+<div class="row">
+            <div class="portafolio-heading padd-15">
+              <h2>Proyectos</h2>
+            </div>
+          </div>
+          <div class="row">
+            <!-- inicio Item 1 -->
+            <div class="portafolio-item">
+              <div class="portafolio-item-inner">
+                <div class="portafolio-img">
+                  <img src="./Imagenes/Desarrollo Web.png" alt="">
+                </div>
+              </div>
+            </div>
+            <!-- fin Item 1 -->
+            <!-- inicio Item 1 -->
+            <div class="portafolio-item">
+              <div class="portafolio-item-inner">
+                <div class="portafolio-img">
+                  <img src="./Imagenes/Basico.png" alt="">
+                </div>
+              </div>
+            </div>
+            <!-- fin Item 1 -->
+            <!-- inicio Item 1 -->
+            <div class="portafolio-item">
+              <div class="portafolio-item-inner">
+                <div class="portafolio-img">
+                  <img src="./Imagenes/Flujograma.png" alt="">
+                </div>
+              </div>
+            </div>
+            <!-- fin Item 1 -->
+            <!-- inicio Item 1 -->
+            <div class="portafolio-item">
+              <div class="portafolio-item-inner">
+                <div class="portafolio-img">
+                  <img src="./Imagenes/Diseño Mecanico.png" alt="">
+                </div>
+              </div>
+            </div>
+            fin Item 1
