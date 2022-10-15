@@ -334,6 +334,7 @@ a{
 }
 
 .home-img {
+  margin-top: 40px;
   flex: 0 0 20%;
   max-width: 80%;
   text-align: center;
@@ -342,7 +343,7 @@ a{
 
 .home .home-img iframe {
   width: 600px;
-  height: 400px;
+  height: 300px;
 }
 
 /* about */
